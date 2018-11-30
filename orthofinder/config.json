@@ -12,6 +12,11 @@
     "program_type": "msa",
     "cmd_line": "muscle -in INPUT -out OUTPUT"
     },
+              
+    "kalign":{ 
+    "program_type": "kalign",
+    "cmd_line": "kalign -a -i INPUT -o OUTPUT"
+    },
         
     "raxml":{ 
     "program_type": "tree",
