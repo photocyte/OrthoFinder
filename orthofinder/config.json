@@ -14,7 +14,7 @@
     },
               
     "kalign":{ 
-    "program_type": "kalign",
+    "program_type": "msa",
     "cmd_line": "kalign -a -i INPUT -o OUTPUT"
     },
         
